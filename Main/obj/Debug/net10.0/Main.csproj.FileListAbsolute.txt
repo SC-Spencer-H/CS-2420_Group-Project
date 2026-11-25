@@ -1,0 +1,14 @@
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\bin\Debug\net10.0\Main.exe
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\bin\Debug\net10.0\Main.deps.json
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\bin\Debug\net10.0\Main.runtimeconfig.json
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\bin\Debug\net10.0\Main.dll
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\bin\Debug\net10.0\Main.pdb
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\Main.AssemblyInfoInputs.cache
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\Main.AssemblyInfo.cs
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\Main.dll
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\refint\Main.dll
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\Main.pdb
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\Main.genruntimeconfig.cache
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Main\obj\Debug\net10.0\ref\Main.dll

@@ -1,0 +1,11 @@
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\bin\Debug\net10.0\Library.deps.json
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\bin\Debug\net10.0\Library.dll
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\bin\Debug\net10.0\Library.pdb
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\Library.AssemblyInfoInputs.cache
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\Library.AssemblyInfo.cs
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\Library.dll
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\refint\Library.dll
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\Library.pdb
+C:\Users\school\Desktop\School\2026-FALL\CS-2420\CS-2420_Group-Project\Library\obj\Debug\net10.0\ref\Library.dll
